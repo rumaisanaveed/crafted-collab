@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Crafted Collab (Apple like landing page)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📝 Introduction
+This is a beautifully designed, Apple-inspired landing page built using **React**, **Tailwind CSS**, and **Framer Motion**. The project focuses on smooth animations and an elegant UI, combining modern web development techniques to deliver an engaging user experience.
 
-## Available Scripts
+## 🛠️ Tech Stack
+- **React**: For building the interactive user interface.
+- **Tailwind CSS**: For fast and efficient styling with utility-first classes.
+- **Framer Motion**: For creating smooth animations and transitions.
 
-In the project directory, you can run:
+## 🌱 Learnings
+I followed a YouTube tutorial to understand the fundamentals of creating seamless animations and transitions using Framer Motion. This helped me:
+- Approach animation design methodically.
+- Understand how to structure and implement complex animations.
+- Blend design aesthetics with coding effectively.
 
-### `npm start`
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/crafted-collab.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd crafted-collab
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌐 Live Link
+Experience the live version here: [Crafted Collab](https://crafted-collab.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎥 Demo Video
+Check out the demo video showcasing the animations and UI interactions:
 
-### `npm test`
+https://github.com/user-attachments/assets/bef6e591-0a4c-4e56-a825-20293ae0c87f
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy exploring this project and feel free to reach out with any feedback or questions! 🎉
